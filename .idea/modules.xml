@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Map-basic-android.iml" filepath="$PROJECT_DIR$/Map-basic-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoogleMap-basic-android.iml" filepath="$PROJECT_DIR$/GoogleMap-basic-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
